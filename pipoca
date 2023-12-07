@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="port-br">
+<head>
+
+    <header class="cabecalho">
+        
+        <ul class="lista_cabecalho">
+            <li class="item_lista_cabecalho"><a href="index.html">Home</a></li>
+            <li class="item_lista_cabecalho"><a href="bolas.html">artes</a></li>
+            <li class="item_lista_cabecalho"><a href="pipoca.html">moedas</a></li>
+        </ul>
+    </header>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="Seja como um cr7"</header>
+    <img src="CR7-removebg-preview.png" alt="">
+    <h1>A Mágica Dos Esportes.</h1>
+
+    <p>Aqui você verá os benefícios para a saúde de praticar esportes, além de conhecer novas brincadeiras e esportes...</p>
+    <img src="fut-removebg-preview.png" alt="">
+    <img src="basquete-removebg-preview.png" alt="">
+    <img src="pings-removebg-preview.png" alt="">
+    
+
+</body>
+</html>
